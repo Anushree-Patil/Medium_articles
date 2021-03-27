@@ -1,5 +1,5 @@
 # Medium_articles
-These are the articles that I wrote on medium.com
+This repository contains link to some of my articles.
 
 
 1.   https://anushreepatil5957.medium.com/10-must-have-vscode-extensions-for-web-developers-278f0ae5764a
